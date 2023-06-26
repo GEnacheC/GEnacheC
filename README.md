@@ -1,7 +1,7 @@
 <h1 align='center' >👋 Olá, meu nome é Guilherme!</h1>
-<h2>📚 Sobre mim </h2>
+<h2>📖 Sobre mim </h2>
 <p>Meu nome é Guilherme Enache Caetano, tenho 18 anos e sou Desenvolvedor FullStack Júnior, estudei desenvolvimento de sistemas através do sistema de ensino ETEC durante meus anos de ensino médio, durante esses anos tive a oportudnidade de aprender e desenvolver minhas habilidades em programação, no meu último ano de ensino médio fui contratado por uma empresa para ajudar a desenvolver e dar manutenção para diversas empresas. Apesar de estar trabalhando continuo a estudar e sempre aprender algo novo.</p>
-<h2>⚙️ Tecnologias</h2>
+<h2>🔧 Tecnologias</h2>
 <p>Eu atualmente trabalho e estudo as seguintes linguagens e tecnologias:</p>
 <div style='display:flex;justify-content:space-between;'>
     <ul>
