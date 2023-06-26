@@ -3,47 +3,43 @@
 <p>Meu nome é Guilherme Enache Caetano, tenho 18 anos e sou Desenvolvedor FullStack Júnior, estudei desenvolvimento de sistemas através do sistema de ensino ETEC durante meus anos de ensino médio, durante esses anos tive a oportudnidade de aprender e desenvolver minhas habilidades em programação, no meu último ano de ensino médio fui contratado por uma empresa para ajudar a desenvolver e dar manutenção para diversas empresas. Apesar de estar trabalhando continuo a estudar e sempre aprender algo novo.</p>
 <h2>🔧 Tecnologias</h2>
 <p>Eu atualmente trabalho e estudo as seguintes linguagens e tecnologias:</p>
-<div style='display:flex;justify-content:space-between;'>
-    <ul>
-        <li>
-            HTML
-        </li>
-        <li>
-            CSS
-        </li>
-        <li>
-            JS(TypeScript também)
-        </li>
-        <li>
-            PHP
-        </li>
-        <li>
-            React-Native(Framework)
-        </li>
-        <li>
-            Node.js
-        </li>
-    </ul>
-    <ul>
-        <li>
-            C#
-        </li>
-        <li>
-            Python
-        </li>
-        <li>
-            Delphi(IDE programada em Pascal)
-        </li>
-        <li>
-            SQL
-        </li>
-        <li>
-            Firebird(3.0/2.5)
-        </li>
-    </ul>
-</div>
-<h2>📐 Meus trabalhos e projetos</h2>
-<p>Alguns dos projetos e trabalhos que realizei podem se destacar alguns como:</p>
+<ul>
+    <li>
+        HTML
+    </li>
+    <li>
+        CSS
+    </li>
+    <li>
+        JS(TypeScript também)
+    </li>
+    <li>
+        PHP
+    </li>
+    <li>
+        React-Native(Framework)
+    </li>
+    <li>
+        Node.js
+    </li>
+    <li>
+        C#
+    </li>
+    <li>
+        Python
+    </li>
+    <li>
+        Delphi
+    </li>
+    <li>
+        SQL
+    </li>
+    <li>
+        Firebird
+    </li>
+</ul>
+<h2>📐 Meus projetos</h2>
+<p>Abaixo projetos que já participei:</p>
 <ul>
     <li>
         O sistema da biblioteca da ETEC Porfª Ilza Nascimento Pintus que permite  registro de empréstimos, registro de alunos e registro de livros.
@@ -109,19 +105,18 @@
         </ul>
     </li>
     <li>
-        Sistemas em Delhpi que dou manutenção e atualizações pela empresa Lcb Sistemas.
-        Realizado com:
+        Sistemas em Delphi que dou manutenção e atualizações. Realizado com as ferramentas:
         <ul>
             <li>
-                Delhpi(Pascal)
+                Delphi(Pascal)
             </li>
            <li>
-                Firebird(3.0/2.5)
+                Firebird
             </li> 
         </ul>
     </li>
     <li>
-        Aplicativos mobile para empresas com diversas funções como pedidos de vendas, verificação de holerites, etc. Também pela Lcb Sistemas. Realizado com: 
+        Aplicativos mobile para empresas com diversas funções como pedidos de vendas, verificação de holerites, etc. Realizado com as ferramentas: 
         <ul>
             <li>
                 React-Native
@@ -136,7 +131,7 @@
                 JSON(para a transferência de dados estruturados na API)
             </li>
             <li>
-                Firebird(3.0/2.5)
+                Firebird
             </li>
         </ul>
     </li>
@@ -148,9 +143,6 @@
 <ul>
     <li>
         <a href="https://www.linkedin.com/in/guienache/">LinkedIn</a>
-    </li>
-    <li>
-      <a href="mailto:contato@guilherme.enache@gmail.com">Gmail</a>
     </li>
     <li>
         <a>Portfólio - Em desenvolvimento 🛠️</a>
